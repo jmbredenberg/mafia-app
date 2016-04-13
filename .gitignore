@@ -56,3 +56,6 @@ mafia/db.sqlite3
 # Sphinx documentation
 docs/_build/
 
+
+# virtualenv
+venv/
